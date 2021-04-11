@@ -1,2 +1,2 @@
 # Karel Moves
-I'm giving giving Karel commands
+I'm giving Karel commands
